@@ -19,10 +19,3 @@ Before running the application, make sure you have Python installed along with t
 
 - Python 3.8 or higher
 - FFmpeg (required for video decoding/encoding streams)
-
-## Installation
-
-Install the package directly using pip:
-
-```bash
-pip install -r requirements.txt
